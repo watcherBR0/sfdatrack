@@ -1,9 +1,0 @@
-{
-  "python.defaultInterpreterPath": "/home/wzq/miniconda3/envs/mamba/bin/python",
-  "python.analysis.extraPaths": [
-    "/home/wzq/mamba",
-    "/home/wzq/causal-conv1d"
-  ],
-  "python-envs.defaultEnvManager": "ms-python.python:conda",
-  "python-envs.defaultPackageManager": "ms-python.python:conda"
-}
