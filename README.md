@@ -108,4 +108,4 @@ python lib/test/utils/transform_got10k.py # need to modify tracker configs and n
 Or you can also use NAT2021 and UAVDark70 for evaluation.
 
 ## Acknowledgement
-Our code is built upon [OSTrack](https://github.com/botaoye/OSTrack). Also grateful for PyTracking.
+Thanks to [OSTrack](https://github.com/botaoye/OSTrack) and PyTracking for their excellent work.
