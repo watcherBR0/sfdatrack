@@ -92,6 +92,7 @@ python tracking/train.py --script sfdatrack --config baseline_vit --save_dir ./o
 Replace `--config` with the desired model config under `experiments/sfdatrack`. We use [wandb](https://github.com/wandb/client) to record detailed training logs, in case you don't want to use wandb, set `--use_wandb 0`.
 
 ## Evaluation
+Use your training weights or [ours](https://pan.baidu.com/s/1gZMTvQ9UpLWTKHHkRNGlUQ?pwd=yjgu).
 Change the corresponding values of `lib/test/evaluation/local.py` to the actual benchmark saving paths
 
 Testing examples in different domains:
